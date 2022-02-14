@@ -10,10 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Exercise10">
         <activity
-            android:name=".Activity_test"
+            android:name=".Activities.Activity_user"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Activities.Activity_test"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
