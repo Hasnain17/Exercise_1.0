@@ -47,19 +47,29 @@ class MainActivity : AppCompatActivity() {
             showPopup(binding.btnPopUp)
         }
         binding.btnFab.setOnClickListener{
-            Toast.makeText(this, "fab Clicked", Toast.LENGTH_SHORT).show()
-
+            Toast.makeText(this, "DB-Activity", Toast.LENGTH_SHORT).show()
+            intent=Intent(this, Activity_custom_db::class.java)
+            startActivity(intent)
+            //Implementing of Room Database
 
         }
         binding.bottomAppBar.setOnClickListener {
             binding.bottomAppBar.setOnMenuItemClickListener {
                 when (it.itemId) {
-                    R.id.option_1 -> {
-                        Toast.makeText(this, "Option 1 Clicked", Toast.LENGTH_SHORT).show()
+                    R.id.nav01 -> {
+                        Toast.makeText(this, "Home Clicked", Toast.LENGTH_SHORT).show()
                         true
                     }
-                    R.id.option_2 -> {
-                        Toast.makeText(this, "Option 2 Clicked", Toast.LENGTH_SHORT).show()
+                    R.id.nav02 -> {
+                        Toast.makeText(this, "Change Password Clicked", Toast.LENGTH_SHORT).show()
+                        true
+                    }
+                    R.id.nav03 -> {
+                        Toast.makeText(this, "About Us Clicked", Toast.LENGTH_SHORT).show()
+                        true
+                    }
+                    R.id.nav04 -> {
+                        Toast.makeText(this, "Sign out Clicked", Toast.LENGTH_SHORT).show()
                         true
                     }
                     else -> false

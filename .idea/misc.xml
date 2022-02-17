@@ -3,16 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable-v24/bakground_bottom_navigation.xml" value="0.2395" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable-v24/ic_change_password.xml" value="0.1995" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable-v24/ic_close.xml" value="0.2395" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable-v24/ic_home.xml" value="0.1995" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable-v24/ic_info.xml" value="0.1995" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable-v24/ic_logout.xml" value="0.1995" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable-v24/toolbar_bg.xml" value="0.1995" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable/bg_button.xml" value="0.212" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/drawable/list_items.xml" value="0.212" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/activity_custom_db.xml" value="0.371875" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/activity_custom_db2.xml" value="0.19166666666666668" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/activity_main.xml" value="0.371875" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/activity_test.xml" value="0.371875" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/activity_user.xml" value="0.371875" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/activity_user2.xml" value="0.12447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/bottom_navigation_drawer.xml" value="0.371875" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/custom_toast.xml" value="0.371875" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/list_item.xml" value="0.371875" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/layout/list_items.xml" value="0.325" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/menu/bottom_appbar_menu.xml" value="0.371875" />
+        <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.371875" />
         <entry key="..\:/AndroidStudioProjects/Exercise10/app/src/main/res/menu/context_menu.xml" value="0.371875" />
       </map>
     </option>
